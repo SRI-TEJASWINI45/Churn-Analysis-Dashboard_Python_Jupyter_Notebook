@@ -1,7 +1,5 @@
-# FUTURE_DS_02
+# Churn Analysis Dashboard_Python
 Interactive Python dashboard showing customer churn insights with Plotly.
-# Churn Analysis Dashboard
-
 An interactive Python dashboard analyzing **customer churn** using Plotly and Pandas.
 
 ## Overview
